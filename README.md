@@ -1,5 +1,3 @@
-# Udemig-egitim-app
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
